@@ -1,0 +1,33 @@
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài_4._6.Form1.resources
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.csproj.GenerateResource.cache
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.AssemblyInfoInputs.cache
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.AssemblyInfo.cs
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.csproj.CoreCompileInputs.cache
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.exe
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.deps.json
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.runtimeconfig.json
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.dll
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.pdb
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.dll
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\refint\bài 4.6.dll
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.pdb
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.genruntimeconfig.cache
+C:\Users\Quang Nhat\source\repos\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\ref\bài 4.6.dll
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.exe
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.deps.json
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.runtimeconfig.json
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.dll
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\bin\Debug\net10.0-windows\bài 4.6.pdb
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài_4._6.Form1.resources
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.AssemblyInfo.cs
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.dll
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\refint\bài 4.6.dll
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.pdb
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.genruntimeconfig.cache
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\ref\bài 4.6.dll
+C:\Users\PC\Downloads\bài 4.6\bài 4.6\bài 4.6\obj\Debug\net10.0-windows\bài 4.6.csproj.Up2Date
